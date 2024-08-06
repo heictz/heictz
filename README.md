@@ -10,3 +10,7 @@ Meu nome é Heitor Cortez 🤙
 
 00001104028475sp@al.educacao.sp.gov.br
 
+
+
+![](![image](https://github.com/user-attachments/assets/aa0139f7-a036-4517-b5a3-0dec0b072e49)
+)
