@@ -1,6 +1,6 @@
 ## boas vindas ao meu perfil 😅
 
-Meu nome é Heitor Cortez
+Meu nome é Heitor Cortez 🤙
 
 - Estou estudando na Alura;
 - Estou me desenvolvendo na linguagem javascript
